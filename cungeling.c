@@ -17,7 +17,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 
-#include <cuda.h>
+#include "cungeling.cuh"
 
 /*------------------------------------------------------------------------*/
 #if 0
